@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:title="@string/menu_home"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/menu_forecast"
+        android:title="@string/menu_forecast"
+        android:icon="@drawable/ic_position"/>
+
+    <item
+        android:id="@+id/menu_explore"
+        android:title="@string/menu_explore"
+        android:icon="@drawable/ic_compass"/>
+</menu>

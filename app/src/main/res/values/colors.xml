@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#fbfbfb</color>
+    <color name="colorAccent">#06D9DC</color>
+
+    <color name="colorMenu">#f5f5f5</color>
+    <color name="colorItemExpand">#e5e5e5</color>
+    <color name="colorSelectMenu">#34283c</color>
+    <color name="colorNotSelectMenu">#6e6e6e</color>
+    <color name="colorSecondText">#a5a5a5</color>
+    <color name="colorBackground">#fbfbfb</color>
+    <color name="colorBlueDay">#acf5fb</color>
+    <color name="colorBackgroundBlue">#06D9DC</color>
+
+    <color name="colorDay">#fbfbfb</color>
+    <color name="colorNight">#34283c</color>
+
+</resources>
