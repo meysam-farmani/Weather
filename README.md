@@ -7,8 +7,5 @@
 <p float="left">
   <img src="images/image-4.png" width="200">
   <img src="images/image-5.png" width="200">
-  <video width="200" controls>
-    <source src="video-1.mp4" type="video/mp4">
-  </video>
 </p>
-![](video-1.mp4)
+  See also [Weather App Video](https://www.youtube.com/watch?v=ZX9Vd_J90is)
